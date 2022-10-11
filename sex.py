@@ -580,7 +580,7 @@ def setting():
 		method.append('mbasic')
 	else:
 		method.append('mobile')
-	print(f'{m}NOTE :\n🙄{k}USE DEFULT PASS MENU ') 
+	print(f'{m}NOTE :\n🌚{k}USE DEFULT PASS MENU ') 
 	print('')
 	_jembot_ = input('=>SHOW APKS ( Y/t ) ')
 #	if _jembot_ in ['']:
